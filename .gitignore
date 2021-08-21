@@ -1,0 +1,10 @@
+.idea/
+
+# Byte-compiled
+__pycache__/
+
+# Virtualenv
+venv
+.venv
+
+# Unit test / coverage reports
